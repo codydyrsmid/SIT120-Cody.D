@@ -1,0 +1,1 @@
+You can implement responsive web design within your webpages by utlising css @ media rule. Css media rule allows you do do an action such as changing the background color if the browser winmddows is a certain size. This allows you to edit how your website looks depending on what device is acessing your webpage wether its ihpone, android, ipad, tablet, tv, pc etc

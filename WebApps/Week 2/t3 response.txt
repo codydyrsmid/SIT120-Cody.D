@@ -1,0 +1,11 @@
+1st user story 
+>As a user of this wepage i want the nativation of the website to be easy to use aswell as logical and looks nice. 
+1.Task bar is clear and takes user to the exact page they click on
+2.Font must be easy to read
+3.simplistic colours used
+
+2nd user story 
+>as a user of this webpage i want design to stay consistent throughout the full webpage.
+1.Same colours used throuhgout the wqhole website 
+2.Same font used throughout the whole website 
+3.Adding media that mactches the overall theme/ design of the website 
